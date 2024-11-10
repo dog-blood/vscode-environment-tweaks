@@ -1,9 +1,13 @@
 {
   "name": "latex-helper",
-  "displayName": "LaTeX Helper",
-  "description": "LaTeX helper extension",
+  "displayName": "LaTex Enviorment Tweaks", 
+  "description": "This pacakge lets you jump between enviorments using CTRL+E, and an arrow key. It also makes a intellisense thing that functions the same way TexStudio does. ",
   "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "publisher": "Human, I think",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dog-blood/vscode-environment-tweaks.git"
+  },
   "engines": {
     "vscode": "^1.80.0",
     "cursor": "^1.0.0"
@@ -13,7 +17,7 @@
   ],
   "activationEvents": [
     "onStartupFinished",
-    "onLanguage:latex",
+    "onLanguage:latex", 
     "onLanguage:tex"
   ],
   "main": "./out/extension.js",
