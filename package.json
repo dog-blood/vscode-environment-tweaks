@@ -3,7 +3,7 @@
   "displayName": "LaTex Enviorment Tweaks", 
   "description": "This pacakge lets you jump between enviorments using CTRL+E, and an arrow key. It also makes a intellisense thing that functions the same way TexStudio does. ",
   "version": "0.0.1",
-  "publisher": "Human, I think",
+  "publisher": "Human",
   "repository": {
     "type": "git",
     "url": "https://github.com/dog-blood/vscode-environment-tweaks.git"
@@ -60,7 +60,7 @@
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
-    "compile": "tsc -watch -p ./ && copy src\\keylogger.py out\\",
+    "compile": "tsc -p ./ && copy src\\keylogger.py out\\",
     "postinstall": "copy src\\keylogger.py out\\"
   },
   "devDependencies": {

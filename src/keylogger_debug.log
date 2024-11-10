@@ -1,0 +1,896 @@
+[2024-11-09 20:44:33.712008] === Keylogger Starting ===
+[2024-11-09 20:44:33.712008] Script location: c:\Users\squir\OneDrive\Desktop\vs_extension\src\keylogger.py
+[2024-11-09 20:44:33.713009] Log file location: c:\Users\squir\OneDrive\Desktop\vs_extension\src\keylogger_debug.log
+[2024-11-09 20:44:33.873318] Keyboard hook registered
+[2024-11-09 20:44:33.874318] Entering wait loop
+[2024-11-09 20:44:33.890319] Key event: right (up)
+[2024-11-09 20:44:34.245228] Key event: left (down)
+[2024-11-09 20:44:34.246228] Checking Ctrl+E combination...
+[2024-11-09 20:44:34.247229] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:44:34.443654] Key event: left (up)
+[2024-11-09 20:44:34.551416] Key event: ctrl (up)
+[2024-11-09 20:44:34.572925] Key event: e (up)
+[2024-11-09 20:44:34.751455] Key event: esc (down)
+[2024-11-09 20:44:34.752458] Checking Ctrl+E combination...
+[2024-11-09 20:44:34.753450] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:44:34.950141] Key event: esc (up)
+[2024-11-09 20:44:35.122701] Key event: esc (down)
+[2024-11-09 20:44:35.122701] Checking Ctrl+E combination...
+[2024-11-09 20:44:35.124816] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:44:35.266659] Key event: esc (up)
+[2024-11-09 20:44:35.551157] Key event: up (down)
+[2024-11-09 20:44:35.552164] Checking Ctrl+E combination...
+[2024-11-09 20:44:35.553162] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:44:35.700027] Key event: up (up)
+[2024-11-09 20:44:35.972774] Key event: up (down)
+[2024-11-09 20:44:35.973831] Checking Ctrl+E combination...
+[2024-11-09 20:44:35.973831] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:44:36.123479] Key event: up (up)
+[2024-11-09 20:44:36.287623] Key event: ctrl (down)
+[2024-11-09 20:44:36.287623] Checking Ctrl+E combination...
+[2024-11-09 20:44:36.288623] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:44:36.347534] Key event: e (down)
+[2024-11-09 20:44:36.348531] Checking Ctrl+E combination...
+[2024-11-09 20:44:36.349529] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:36.351030] Ctrl+E is pressed!
+[2024-11-09 20:44:36.441122] Key event: right (down)
+[2024-11-09 20:44:36.443233] Checking Ctrl+E combination...
+[2024-11-09 20:44:36.445247] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:36.445247] Ctrl+E is pressed!
+[2024-11-09 20:44:36.446249] RIGHT arrow detected - sending command
+[2024-11-09 20:44:36.598885] Key event: right (up)
+[2024-11-09 20:44:36.887489] Key event: right (down)
+[2024-11-09 20:44:36.888475] Checking Ctrl+E combination...
+[2024-11-09 20:44:36.889464] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:36.890465] Ctrl+E is pressed!
+[2024-11-09 20:44:36.891463] RIGHT arrow detected - sending command
+[2024-11-09 20:44:37.005644] Key event: right (up)
+[2024-11-09 20:44:37.685790] Key event: right (down)
+[2024-11-09 20:44:37.686807] Checking Ctrl+E combination...
+[2024-11-09 20:44:37.687870] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:37.688884] Ctrl+E is pressed!
+[2024-11-09 20:44:37.688884] RIGHT arrow detected - sending command
+[2024-11-09 20:44:37.854498] Key event: right (up)
+[2024-11-09 20:44:38.082316] Key event: right (down)
+[2024-11-09 20:44:38.085660] Checking Ctrl+E combination...
+[2024-11-09 20:44:38.086662] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:38.086662] Ctrl+E is pressed!
+[2024-11-09 20:44:38.087662] RIGHT arrow detected - sending command
+[2024-11-09 20:44:38.263113] Key event: right (up)
+[2024-11-09 20:44:38.382288] Key event: right (down)
+[2024-11-09 20:44:38.384286] Checking Ctrl+E combination...
+[2024-11-09 20:44:38.385285] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:38.386290] Ctrl+E is pressed!
+[2024-11-09 20:44:38.387286] RIGHT arrow detected - sending command
+[2024-11-09 20:44:38.533925] Key event: right (up)
+[2024-11-09 20:44:38.629002] Key event: right (down)
+[2024-11-09 20:44:38.632472] Checking Ctrl+E combination...
+[2024-11-09 20:44:38.633495] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:38.634492] Ctrl+E is pressed!
+[2024-11-09 20:44:38.634492] RIGHT arrow detected - sending command
+[2024-11-09 20:44:38.760494] Key event: right (up)
+[2024-11-09 20:44:38.957966] Key event: left (down)
+[2024-11-09 20:44:38.960763] Checking Ctrl+E combination...
+[2024-11-09 20:44:38.961777] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:38.961777] Ctrl+E is pressed!
+[2024-11-09 20:44:38.962779] LEFT arrow detected - sending command
+[2024-11-09 20:44:39.148330] Key event: left (up)
+[2024-11-09 20:44:39.250584] Key event: left (down)
+[2024-11-09 20:44:39.250584] Checking Ctrl+E combination...
+[2024-11-09 20:44:39.251585] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:39.252583] Ctrl+E is pressed!
+[2024-11-09 20:44:39.252583] LEFT arrow detected - sending command
+[2024-11-09 20:44:39.362980] Key event: left (up)
+[2024-11-09 20:44:39.462402] Key event: left (down)
+[2024-11-09 20:44:39.463524] Checking Ctrl+E combination...
+[2024-11-09 20:44:39.463524] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:39.463524] Ctrl+E is pressed!
+[2024-11-09 20:44:39.464887] LEFT arrow detected - sending command
+[2024-11-09 20:44:39.570786] Key event: left (up)
+[2024-11-09 20:44:39.661319] Key event: left (down)
+[2024-11-09 20:44:39.662417] Checking Ctrl+E combination...
+[2024-11-09 20:44:39.665478] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:39.665478] Ctrl+E is pressed!
+[2024-11-09 20:44:39.666477] LEFT arrow detected - sending command
+[2024-11-09 20:44:39.775258] Key event: left (up)
+[2024-11-09 20:44:39.873322] Key event: left (down)
+[2024-11-09 20:44:39.874715] Checking Ctrl+E combination...
+[2024-11-09 20:44:39.875730] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:39.876809] Ctrl+E is pressed!
+[2024-11-09 20:44:39.877830] LEFT arrow detected - sending command
+[2024-11-09 20:44:39.980957] Key event: left (up)
+[2024-11-09 20:44:40.109482] Key event: right (down)
+[2024-11-09 20:44:40.113021] Checking Ctrl+E combination...
+[2024-11-09 20:44:40.114022] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:40.115024] Ctrl+E is pressed!
+[2024-11-09 20:44:40.116022] RIGHT arrow detected - sending command
+[2024-11-09 20:44:40.247621] Key event: right (up)
+[2024-11-09 20:44:40.356755] Key event: right (down)
+[2024-11-09 20:44:40.356755] Checking Ctrl+E combination...
+[2024-11-09 20:44:40.357756] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:40.357756] Ctrl+E is pressed!
+[2024-11-09 20:44:40.358755] RIGHT arrow detected - sending command
+[2024-11-09 20:44:40.445075] Key event: right (up)
+[2024-11-09 20:44:40.552588] Key event: right (down)
+[2024-11-09 20:44:40.553590] Checking Ctrl+E combination...
+[2024-11-09 20:44:40.554587] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:40.554587] Ctrl+E is pressed!
+[2024-11-09 20:44:40.555591] RIGHT arrow detected - sending command
+[2024-11-09 20:44:40.627689] Key event: right (up)
+[2024-11-09 20:44:40.733671] Key event: right (down)
+[2024-11-09 20:44:40.733671] Checking Ctrl+E combination...
+[2024-11-09 20:44:40.734668] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:40.735901] Ctrl+E is pressed!
+[2024-11-09 20:44:40.736916] RIGHT arrow detected - sending command
+[2024-11-09 20:44:40.810679] Key event: right (up)
+[2024-11-09 20:44:40.909373] Key event: right (down)
+[2024-11-09 20:44:40.910377] Checking Ctrl+E combination...
+[2024-11-09 20:44:40.911453] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:40.911966] Ctrl+E is pressed!
+[2024-11-09 20:44:40.911966] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.007063] Key event: right (up)
+[2024-11-09 20:44:41.075025] Key event: right (down)
+[2024-11-09 20:44:41.075025] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.076025] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.077242] Ctrl+E is pressed!
+[2024-11-09 20:44:41.077242] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.578962] Key event: right (down)
+[2024-11-09 20:44:41.580241] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.581256] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.581256] Ctrl+E is pressed!
+[2024-11-09 20:44:41.582260] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.619720] Key event: right (down)
+[2024-11-09 20:44:41.621721] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.623104] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.623104] Ctrl+E is pressed!
+[2024-11-09 20:44:41.624120] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.640240] Key event: right (down)
+[2024-11-09 20:44:41.641682] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.642898] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.645914] Ctrl+E is pressed!
+[2024-11-09 20:44:41.646915] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.669388] Key event: right (down)
+[2024-11-09 20:44:41.670698] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.671800] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.672910] Ctrl+E is pressed!
+[2024-11-09 20:44:41.673925] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.701089] Key event: right (down)
+[2024-11-09 20:44:41.701089] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.702082] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.702082] Ctrl+E is pressed!
+[2024-11-09 20:44:41.703082] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.730847] Key event: right (down)
+[2024-11-09 20:44:41.730847] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.731842] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.732851] Ctrl+E is pressed!
+[2024-11-09 20:44:41.732851] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.759798] Key event: right (down)
+[2024-11-09 20:44:41.760847] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.762840] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.762840] Ctrl+E is pressed!
+[2024-11-09 20:44:41.763843] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.790649] Key event: right (down)
+[2024-11-09 20:44:41.791648] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.792648] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.793878] Ctrl+E is pressed!
+[2024-11-09 20:44:41.794890] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.820041] Key event: right (down)
+[2024-11-09 20:44:41.821208] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.822427] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.823561] Ctrl+E is pressed!
+[2024-11-09 20:44:41.823561] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.853904] Key event: right (down)
+[2024-11-09 20:44:41.854904] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.856383] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.857595] Ctrl+E is pressed!
+[2024-11-09 20:44:41.857595] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.881115] Key event: right (down)
+[2024-11-09 20:44:41.881115] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.882219] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.883277] Ctrl+E is pressed!
+[2024-11-09 20:44:41.884295] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.910604] Key event: right (down)
+[2024-11-09 20:44:41.911610] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.912612] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.914089] Ctrl+E is pressed!
+[2024-11-09 20:44:41.914089] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.940863] Key event: right (down)
+[2024-11-09 20:44:41.941856] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.942857] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.944860] Ctrl+E is pressed!
+[2024-11-09 20:44:41.945860] RIGHT arrow detected - sending command
+[2024-11-09 20:44:41.971265] Key event: right (down)
+[2024-11-09 20:44:41.987740] Checking Ctrl+E combination...
+[2024-11-09 20:44:41.988738] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:41.988738] Ctrl+E is pressed!
+[2024-11-09 20:44:41.989740] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.002255] Key event: right (down)
+[2024-11-09 20:44:42.003154] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.005402] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.007401] Ctrl+E is pressed!
+[2024-11-09 20:44:42.009402] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.030616] Key event: right (down)
+[2024-11-09 20:44:42.031994] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.033357] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.034550] Ctrl+E is pressed!
+[2024-11-09 20:44:42.035566] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.062979] Key event: right (down)
+[2024-11-09 20:44:42.063496] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.064520] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.067844] Ctrl+E is pressed!
+[2024-11-09 20:44:42.067844] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.094704] Key event: right (down)
+[2024-11-09 20:44:42.095706] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.097061] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.098079] Ctrl+E is pressed!
+[2024-11-09 20:44:42.098079] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.122447] Key event: right (down)
+[2024-11-09 20:44:42.124451] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.125792] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.126814] Ctrl+E is pressed!
+[2024-11-09 20:44:42.126814] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.158117] Key event: right (down)
+[2024-11-09 20:44:42.160367] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.161387] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.162385] Ctrl+E is pressed!
+[2024-11-09 20:44:42.162385] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.185957] Key event: right (down)
+[2024-11-09 20:44:42.186959] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.189442] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.191440] Ctrl+E is pressed!
+[2024-11-09 20:44:42.192438] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.214815] Key event: right (down)
+[2024-11-09 20:44:42.215989] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.218372] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.218372] Ctrl+E is pressed!
+[2024-11-09 20:44:42.219373] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.245931] Key event: right (down)
+[2024-11-09 20:44:42.247287] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.249645] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.251647] Ctrl+E is pressed!
+[2024-11-09 20:44:42.253647] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.274294] Key event: right (down)
+[2024-11-09 20:44:42.276395] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.277557] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.277557] Ctrl+E is pressed!
+[2024-11-09 20:44:42.278579] RIGHT arrow detected - sending command
+[2024-11-09 20:44:42.283059] Key event: right (up)
+[2024-11-09 20:44:42.324336] Key event: left (down)
+[2024-11-09 20:44:42.325341] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.327339] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.328342] Ctrl+E is pressed!
+[2024-11-09 20:44:42.328342] LEFT arrow detected - sending command
+[2024-11-09 20:44:42.827944] Key event: left (down)
+[2024-11-09 20:44:42.827944] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.829463] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.830487] Ctrl+E is pressed!
+[2024-11-09 20:44:42.830487] LEFT arrow detected - sending command
+[2024-11-09 20:44:42.872441] Key event: left (down)
+[2024-11-09 20:44:42.873455] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.874459] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.879457] Ctrl+E is pressed!
+[2024-11-09 20:44:42.879457] LEFT arrow detected - sending command
+[2024-11-09 20:44:42.888645] Key event: left (down)
+[2024-11-09 20:44:42.889648] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.890649] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.890649] Ctrl+E is pressed!
+[2024-11-09 20:44:42.891649] LEFT arrow detected - sending command
+[2024-11-09 20:44:42.919085] Key event: left (down)
+[2024-11-09 20:44:42.920088] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.921087] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.921087] Ctrl+E is pressed!
+[2024-11-09 20:44:42.923083] LEFT arrow detected - sending command
+[2024-11-09 20:44:42.949866] Key event: left (down)
+[2024-11-09 20:44:42.950880] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.951881] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.951881] Ctrl+E is pressed!
+[2024-11-09 20:44:42.951881] LEFT arrow detected - sending command
+[2024-11-09 20:44:42.977346] Key event: left (down)
+[2024-11-09 20:44:42.978346] Checking Ctrl+E combination...
+[2024-11-09 20:44:42.979430] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:42.979430] Ctrl+E is pressed!
+[2024-11-09 20:44:42.980449] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.008633] Key event: left (down)
+[2024-11-09 20:44:43.009637] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.010949] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.011970] Ctrl+E is pressed!
+[2024-11-09 20:44:43.012970] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.039023] Key event: left (down)
+[2024-11-09 20:44:43.040028] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.041343] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.042360] Ctrl+E is pressed!
+[2024-11-09 20:44:43.042360] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.069408] Key event: left (down)
+[2024-11-09 20:44:43.069408] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.070892] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.071908] Ctrl+E is pressed!
+[2024-11-09 20:44:43.072925] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.098847] Key event: left (down)
+[2024-11-09 20:44:43.099827] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.102199] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.102199] Ctrl+E is pressed!
+[2024-11-09 20:44:43.103258] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.129900] Key event: left (down)
+[2024-11-09 20:44:43.131275] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.132297] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.133415] Ctrl+E is pressed!
+[2024-11-09 20:44:43.134436] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.161332] Key event: left (down)
+[2024-11-09 20:44:43.162354] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.163709] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.164241] Ctrl+E is pressed!
+[2024-11-09 20:44:43.165258] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.189345] Key event: left (down)
+[2024-11-09 20:44:43.190366] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.191618] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.191618] Ctrl+E is pressed!
+[2024-11-09 20:44:43.192675] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.220179] Key event: left (down)
+[2024-11-09 20:44:43.221179] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.222569] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.222569] Ctrl+E is pressed!
+[2024-11-09 20:44:43.223793] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.251599] Key event: left (down)
+[2024-11-09 20:44:43.252990] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.254011] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.255045] Ctrl+E is pressed!
+[2024-11-09 20:44:43.256063] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.280483] Key event: left (down)
+[2024-11-09 20:44:43.281485] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.282480] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.283969] Ctrl+E is pressed!
+[2024-11-09 20:44:43.284986] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.309174] Key event: left (down)
+[2024-11-09 20:44:43.310168] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.310168] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.311643] Ctrl+E is pressed!
+[2024-11-09 20:44:43.312982] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.340564] Key event: left (down)
+[2024-11-09 20:44:43.340564] Checking Ctrl+E combination...
+[2024-11-09 20:44:43.344566] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:43.344566] Ctrl+E is pressed!
+[2024-11-09 20:44:43.345597] LEFT arrow detected - sending command
+[2024-11-09 20:44:43.351566] Key event: left (up)
+[2024-11-09 20:44:43.476078] Key event: e (up)
+[2024-11-09 20:44:43.506685] Key event: ctrl (up)
+[2024-11-09 20:44:44.006801] Key event: ctrl (down)
+[2024-11-09 20:44:44.008980] Checking Ctrl+E combination...
+[2024-11-09 20:44:44.008980] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:44:44.150565] Key event: e (down)
+[2024-11-09 20:44:44.151780] Checking Ctrl+E combination...
+[2024-11-09 20:44:44.152796] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:44.152796] Ctrl+E is pressed!
+[2024-11-09 20:44:44.308538] Key event: right (down)
+[2024-11-09 20:44:44.310477] Checking Ctrl+E combination...
+[2024-11-09 20:44:44.310477] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:44.312905] Ctrl+E is pressed!
+[2024-11-09 20:44:44.312905] RIGHT arrow detected - sending command
+[2024-11-09 20:44:44.425720] Key event: right (up)
+[2024-11-09 20:44:44.549719] Key event: right (down)
+[2024-11-09 20:44:44.550706] Checking Ctrl+E combination...
+[2024-11-09 20:44:44.552182] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:44.552182] Ctrl+E is pressed!
+[2024-11-09 20:44:44.553201] RIGHT arrow detected - sending command
+[2024-11-09 20:44:44.637696] Key event: right (up)
+[2024-11-09 20:44:44.731648] Key event: right (down)
+[2024-11-09 20:44:44.733271] Checking Ctrl+E combination...
+[2024-11-09 20:44:44.735268] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:44:44.735268] Ctrl+E is pressed!
+[2024-11-09 20:44:44.736265] RIGHT arrow detected - sending command
+[2024-11-09 20:44:44.805235] Key event: e (up)
+[2024-11-09 20:44:44.823379] Key event: right (up)
+[2024-11-09 20:44:44.875757] Key event: ctrl (up)
+[2024-11-09 20:45:51.884321] === Keylogger Starting ===
+[2024-11-09 20:45:51.885323] Script location: c:\Users\squir\OneDrive\Desktop\vs_extension\src\keylogger.py
+[2024-11-09 20:45:51.885323] Log file location: c:\Users\squir\OneDrive\Desktop\vs_extension\src\keylogger_debug.log
+[2024-11-09 20:45:52.038912] Keyboard hook registered
+[2024-11-09 20:45:52.039912] Entering wait loop
+[2024-11-09 20:45:52.101959] Key event: left (down)
+[2024-11-09 20:45:52.102961] Checking Ctrl+E combination...
+[2024-11-09 20:45:52.103961] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:52.278945] Key event: left (up)
+[2024-11-09 20:45:53.087368] Key event: right (down)
+[2024-11-09 20:45:53.088373] Checking Ctrl+E combination...
+[2024-11-09 20:45:53.088373] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:53.261333] Key event: right (up)
+[2024-11-09 20:45:54.237209] Key event: right (down)
+[2024-11-09 20:45:54.240208] Checking Ctrl+E combination...
+[2024-11-09 20:45:54.242214] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:54.405394] Key event: right (up)
+[2024-11-09 20:45:55.012545] Key event: right (down)
+[2024-11-09 20:45:55.013724] Checking Ctrl+E combination...
+[2024-11-09 20:45:55.014865] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:55.200876] Key event: right (up)
+[2024-11-09 20:45:55.400187] Key event: right (down)
+[2024-11-09 20:45:55.401695] Checking Ctrl+E combination...
+[2024-11-09 20:45:55.402884] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:55.572197] Key event: right (up)
+[2024-11-09 20:45:55.605716] Key event: e (up)
+[2024-11-09 20:45:55.761055] Key event: ctrl (up)
+[2024-11-09 20:45:56.027378] Key event: down (down)
+[2024-11-09 20:45:56.028372] Checking Ctrl+E combination...
+[2024-11-09 20:45:56.029382] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:56.226620] Key event: down (up)
+[2024-11-09 20:45:56.354049] Key event: down (down)
+[2024-11-09 20:45:56.355338] Checking Ctrl+E combination...
+[2024-11-09 20:45:56.357790] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:56.496156] Key event: down (up)
+[2024-11-09 20:45:56.578255] Key event: down (down)
+[2024-11-09 20:45:56.579253] Checking Ctrl+E combination...
+[2024-11-09 20:45:56.581249] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:56.682872] Key event: down (up)
+[2024-11-09 20:45:56.795990] Key event: down (down)
+[2024-11-09 20:45:56.795990] Checking Ctrl+E combination...
+[2024-11-09 20:45:56.796990] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:56.941345] Key event: down (up)
+[2024-11-09 20:45:56.999363] Key event: down (down)
+[2024-11-09 20:45:57.000362] Checking Ctrl+E combination...
+[2024-11-09 20:45:57.002838] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:45:57.159828] Key event: down (up)
+[2024-11-09 20:45:57.204725] Key event: ctrl (down)
+[2024-11-09 20:45:57.205728] Checking Ctrl+E combination...
+[2024-11-09 20:45:57.208721] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:45:57.274233] Key event: e (down)
+[2024-11-09 20:45:57.275428] Checking Ctrl+E combination...
+[2024-11-09 20:45:57.277972] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:45:57.280989] Ctrl+E is pressed!
+[2024-11-09 20:45:57.403433] Key event: left (down)
+[2024-11-09 20:45:57.404456] Checking Ctrl+E combination...
+[2024-11-09 20:45:57.405902] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:45:57.407921] Ctrl+E is pressed!
+[2024-11-09 20:45:57.407921] LEFT arrow detected - sending command
+[2024-11-09 20:45:57.578747] Key event: left (up)
+[2024-11-09 20:45:58.481545] Key event: right (down)
+[2024-11-09 20:45:58.483046] Checking Ctrl+E combination...
+[2024-11-09 20:45:58.484065] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:45:58.485065] Ctrl+E is pressed!
+[2024-11-09 20:45:58.485065] RIGHT arrow detected - sending command
+[2024-11-09 20:45:58.670971] Key event: right (up)
+[2024-11-09 20:45:59.290817] Key event: right (down)
+[2024-11-09 20:45:59.292228] Checking Ctrl+E combination...
+[2024-11-09 20:45:59.292228] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:45:59.293476] Ctrl+E is pressed!
+[2024-11-09 20:45:59.293476] RIGHT arrow detected - sending command
+[2024-11-09 20:45:59.454497] Key event: right (up)
+[2024-11-09 20:45:59.901371] Key event: left (down)
+[2024-11-09 20:45:59.901371] Checking Ctrl+E combination...
+[2024-11-09 20:45:59.902369] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:45:59.902369] Ctrl+E is pressed!
+[2024-11-09 20:45:59.903371] LEFT arrow detected - sending command
+[2024-11-09 20:46:00.039393] Key event: left (up)
+[2024-11-09 20:46:00.137765] Key event: left (down)
+[2024-11-09 20:46:00.137765] Checking Ctrl+E combination...
+[2024-11-09 20:46:00.141324] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:46:00.141324] Ctrl+E is pressed!
+[2024-11-09 20:46:00.142333] LEFT arrow detected - sending command
+[2024-11-09 20:46:00.234713] Key event: left (up)
+[2024-11-09 20:46:00.313726] Key event: left (down)
+[2024-11-09 20:46:00.313726] Checking Ctrl+E combination...
+[2024-11-09 20:46:00.317003] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:46:00.318005] Ctrl+E is pressed!
+[2024-11-09 20:46:00.319007] LEFT arrow detected - sending command
+[2024-11-09 20:46:00.438857] Key event: left (up)
+[2024-11-09 20:46:00.786649] Key event: right (down)
+[2024-11-09 20:46:00.787664] Checking Ctrl+E combination...
+[2024-11-09 20:46:00.789862] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:46:00.790867] Ctrl+E is pressed!
+[2024-11-09 20:46:00.790867] RIGHT arrow detected - sending command
+[2024-11-09 20:46:00.914440] Key event: right (up)
+[2024-11-09 20:46:01.014552] Key event: right (down)
+[2024-11-09 20:46:01.015575] Checking Ctrl+E combination...
+[2024-11-09 20:46:01.016938] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:46:01.017953] Ctrl+E is pressed!
+[2024-11-09 20:46:01.018954] RIGHT arrow detected - sending command
+[2024-11-09 20:46:01.090826] Key event: right (up)
+[2024-11-09 20:46:01.190972] Key event: right (down)
+[2024-11-09 20:46:01.191999] Checking Ctrl+E combination...
+[2024-11-09 20:46:01.194257] Checking keys - Ctrl: True, E: True
+[2024-11-09 20:46:01.196258] Ctrl+E is pressed!
+[2024-11-09 20:46:01.300150] RIGHT arrow detected - sending command
+[2024-11-09 20:46:01.301149] Key event: right (up)
+[2024-11-09 20:46:01.429723] Key event: e (up)
+[2024-11-09 20:46:01.459681] Key event: ctrl (up)
+[2024-11-09 20:46:01.567954] Key event: alt (down)
+[2024-11-09 20:46:01.568952] Checking Ctrl+E combination...
+[2024-11-09 20:46:01.569958] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:01.619694] Key event: tab (down)
+[2024-11-09 20:46:01.620718] Checking Ctrl+E combination...
+[2024-11-09 20:46:01.621715] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:01.724163] Key event: tab (up)
+[2024-11-09 20:46:01.730659] Key event: alt (up)
+[2024-11-09 20:46:02.799190] Key event: alt (down)
+[2024-11-09 20:46:02.800193] Checking Ctrl+E combination...
+[2024-11-09 20:46:02.801190] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:03.132917] Key event: alt (up)
+[2024-11-09 20:46:05.170111] Key event: o (down)
+[2024-11-09 20:46:05.171114] Checking Ctrl+E combination...
+[2024-11-09 20:46:05.172129] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:05.274385] Key event: o (up)
+[2024-11-09 20:46:05.320988] Key event: k (down)
+[2024-11-09 20:46:05.320988] Checking Ctrl+E combination...
+[2024-11-09 20:46:05.321988] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:05.437603] Key event: space (down)
+[2024-11-09 20:46:05.438632] Checking Ctrl+E combination...
+[2024-11-09 20:46:05.441037] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:05.493081] Key event: k (up)
+[2024-11-09 20:46:05.604973] Key event: space (up)
+[2024-11-09 20:46:05.674761] Key event: o (down)
+[2024-11-09 20:46:05.674761] Checking Ctrl+E combination...
+[2024-11-09 20:46:05.677765] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:05.760430] Key event: o (up)
+[2024-11-09 20:46:05.833157] Key event: n (down)
+[2024-11-09 20:46:05.834153] Checking Ctrl+E combination...
+[2024-11-09 20:46:05.836152] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:05.957757] Key event: space (down)
+[2024-11-09 20:46:05.958761] Checking Ctrl+E combination...
+[2024-11-09 20:46:05.960763] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:05.981003] Key event: n (up)
+[2024-11-09 20:46:06.115380] Key event: space (up)
+[2024-11-09 20:46:06.645640] Key event: ctrl (down)
+[2024-11-09 20:46:06.645640] Checking Ctrl+E combination...
+[2024-11-09 20:46:06.646642] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:06.702896] Key event: backspace (down)
+[2024-11-09 20:46:06.704970] Checking Ctrl+E combination...
+[2024-11-09 20:46:06.705990] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:06.821787] Key event: backspace (up)
+[2024-11-09 20:46:06.882227] Key event: ctrl (up)
+[2024-11-09 20:46:07.119395] Key event: h (down)
+[2024-11-09 20:46:07.120399] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.121405] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:07.200707] Key event: o (down)
+[2024-11-09 20:46:07.203377] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.205396] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:07.253992] Key event: h (up)
+[2024-11-09 20:46:07.298001] Key event: o (up)
+[2024-11-09 20:46:07.376794] Key event: l (down)
+[2024-11-09 20:46:07.377791] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.378893] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:07.460255] Key event: l (up)
+[2024-11-09 20:46:07.487883] Key event: d (down)
+[2024-11-09 20:46:07.490620] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.492646] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:07.601724] Key event: d (up)
+[2024-11-09 20:46:07.649795] Key event: space (down)
+[2024-11-09 20:46:07.649795] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.654170] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:07.750870] Key event: space (up)
+[2024-11-09 20:46:07.815047] Key event: o (down)
+[2024-11-09 20:46:07.817040] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.819382] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:07.907230] Key event: o (up)
+[2024-11-09 20:46:07.976637] Key event: n (down)
+[2024-11-09 20:46:07.977637] Checking Ctrl+E combination...
+[2024-11-09 20:46:07.979880] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.059770] Key event: n (up)
+[2024-11-09 20:46:08.195769] Key event: . (down)
+[2024-11-09 20:46:08.196763] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.196763] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.273842] Key event: space (down)
+[2024-11-09 20:46:08.275876] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.276876] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.284981] Key event: . (up)
+[2024-11-09 20:46:08.320971] Key event: shift (down)
+[2024-11-09 20:46:08.324768] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.325787] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.385674] Key event: space (up)
+[2024-11-09 20:46:08.426955] Key event: I (down)
+[2024-11-09 20:46:08.427904] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.427904] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.520105] Key event: shift (up)
+[2024-11-09 20:46:08.525828] Key event: space (down)
+[2024-11-09 20:46:08.527823] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.528826] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.539141] Key event: i (up)
+[2024-11-09 20:46:08.576342] Key event: r (down)
+[2024-11-09 20:46:08.576342] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.578722] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:08.660601] Key event: space (up)
+[2024-11-09 20:46:08.674394] Key event: r (up)
+[2024-11-09 20:46:08.765963] Key event: e (down)
+[2024-11-09 20:46:08.766959] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.769249] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:08.832955] Key event: s (down)
+[2024-11-09 20:46:08.834945] Checking Ctrl+E combination...
+[2024-11-09 20:46:08.837142] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:08.866140] Key event: e (up)
+[2024-11-09 20:46:08.964767] Key event: s (up)
+[2024-11-09 20:46:09.226393] Key event: t (down)
+[2024-11-09 20:46:09.226393] Checking Ctrl+E combination...
+[2024-11-09 20:46:09.227396] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:09.349754] Key event: t (up)
+[2024-11-09 20:46:09.413035] Key event: o (down)
+[2024-11-09 20:46:09.414039] Checking Ctrl+E combination...
+[2024-11-09 20:46:09.415038] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:09.491592] Key event: r (down)
+[2024-11-09 20:46:09.493095] Checking Ctrl+E combination...
+[2024-11-09 20:46:09.493095] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:09.510046] Key event: o (up)
+[2024-11-09 20:46:09.580376] Key event: r (up)
+[2024-11-09 20:46:09.668331] Key event: e (down)
+[2024-11-09 20:46:09.668331] Checking Ctrl+E combination...
+[2024-11-09 20:46:09.669351] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:09.762550] Key event: e (up)
+[2024-11-09 20:46:09.820212] Key event: d (down)
+[2024-11-09 20:46:09.820212] Checking Ctrl+E combination...
+[2024-11-09 20:46:09.821453] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:09.895210] Key event: space (down)
+[2024-11-09 20:46:09.896207] Checking Ctrl+E combination...
+[2024-11-09 20:46:09.898702] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:09.909196] Key event: d (up)
+[2024-11-09 20:46:09.970775] Key event: space (up)
+[2024-11-09 20:46:10.044429] Key event: t (down)
+[2024-11-09 20:46:10.045430] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.045430] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.059256] Key event: o (down)
+[2024-11-09 20:46:10.060254] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.061256] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.138118] Key event: t (up)
+[2024-11-09 20:46:10.179050] Key event: o (up)
+[2024-11-09 20:46:10.191475] Key event: space (down)
+[2024-11-09 20:46:10.192763] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.194122] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.283883] Key event: space (up)
+[2024-11-09 20:46:10.402932] Key event: a (down)
+[2024-11-09 20:46:10.402932] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.406346] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.487514] Key event: space (down)
+[2024-11-09 20:46:10.488515] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.491517] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.525520] Key event: a (up)
+[2024-11-09 20:46:10.574139] Key event: space (up)
+[2024-11-09 20:46:10.677217] Key event: p (down)
+[2024-11-09 20:46:10.678214] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.679436] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.752307] Key event: r (down)
+[2024-11-09 20:46:10.753323] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.754380] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:10.780993] Key event: p (up)
+[2024-11-09 20:46:10.856478] Key event: r (up)
+[2024-11-09 20:46:10.863565] Key event: e (down)
+[2024-11-09 20:46:10.864560] Checking Ctrl+E combination...
+[2024-11-09 20:46:10.865825] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:10.936476] Key event: e (up)
+[2024-11-09 20:46:11.019140] Key event: v (down)
+[2024-11-09 20:46:11.020142] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.021142] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.074137] Key event: i (down)
+[2024-11-09 20:46:11.074137] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.074137] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.109663] Key event: v (up)
+[2024-11-09 20:46:11.152308] Key event: i (up)
+[2024-11-09 20:46:11.264212] Key event: o (down)
+[2024-11-09 20:46:11.266214] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.266214] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.412284] Key event: u (down)
+[2024-11-09 20:46:11.413373] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.414293] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.416265] Key event: o (up)
+[2024-11-09 20:46:11.418516] Key event: s (down)
+[2024-11-09 20:46:11.419525] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.420527] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.447540] Key event: u (up)
+[2024-11-09 20:46:11.489742] Key event: s (up)
+[2024-11-09 20:46:11.515564] Key event: space (down)
+[2024-11-09 20:46:11.516890] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.517903] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.607038] Key event: v (down)
+[2024-11-09 20:46:11.608320] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.609711] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:11.639789] Key event: space (up)
+[2024-11-09 20:46:11.689655] Key event: v (up)
+[2024-11-09 20:46:11.777269] Key event: e (down)
+[2024-11-09 20:46:11.778318] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.780454] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:11.802329] Key event: r (down)
+[2024-11-09 20:46:11.803343] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.804345] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:11.827335] Key event: e (up)
+[2024-11-09 20:46:11.895595] Key event: r (up)
+[2024-11-09 20:46:11.966427] Key event: s (down)
+[2024-11-09 20:46:11.966427] Checking Ctrl+E combination...
+[2024-11-09 20:46:11.968892] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.030683] Key event: i (down)
+[2024-11-09 20:46:12.031687] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.032756] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.074970] Key event: s (up)
+[2024-11-09 20:46:12.121406] Key event: i (up)
+[2024-11-09 20:46:12.193628] Key event: o (down)
+[2024-11-09 20:46:12.194623] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.196624] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.256276] Key event: o (up)
+[2024-11-09 20:46:12.314304] Key event: n (down)
+[2024-11-09 20:46:12.314304] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.315654] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.378588] Key event: space (down)
+[2024-11-09 20:46:12.381605] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.382606] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.420327] Key event: n (up)
+[2024-11-09 20:46:12.461922] Key event: s (down)
+[2024-11-09 20:46:12.463775] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.464779] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.495262] Key event: space (up)
+[2024-11-09 20:46:12.599022] Key event: i (down)
+[2024-11-09 20:46:12.599022] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.600172] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.606525] Key event: s (up)
+[2024-11-09 20:46:12.652748] Key event: i (up)
+[2024-11-09 20:46:12.713124] Key event: n (down)
+[2024-11-09 20:46:12.715142] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.716144] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:12.798824] Key event: e (down)
+[2024-11-09 20:46:12.799964] Checking Ctrl+E combination...
+[2024-11-09 20:46:12.802983] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:12.812321] Key event: n (up)
+[2024-11-09 20:46:12.947401] Key event: e (up)
+[2024-11-09 20:46:13.135857] Key event: space (down)
+[2024-11-09 20:46:13.135857] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.138852] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.213712] Key event: space (up)
+[2024-11-09 20:46:13.231032] Key event: shift (down)
+[2024-11-09 20:46:13.232031] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.234347] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.333598] Key event: I (down)
+[2024-11-09 20:46:13.349746] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.349746] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.404861] Key event: shift (up)
+[2024-11-09 20:46:13.411618] Key event: space (down)
+[2024-11-09 20:46:13.413777] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.414794] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.435073] Key event: i (up)
+[2024-11-09 20:46:13.476173] Key event: w (down)
+[2024-11-09 20:46:13.477197] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.481440] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.514784] Key event: space (up)
+[2024-11-09 20:46:13.590262] Key event: w (up)
+[2024-11-09 20:46:13.596943] Key event: a (down)
+[2024-11-09 20:46:13.596943] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.597959] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.744683] Key event: s (down)
+[2024-11-09 20:46:13.746062] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.747081] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.769453] Key event: a (up)
+[2024-11-09 20:46:13.878926] Key event: s (up)
+[2024-11-09 20:46:13.886308] Key event: space (down)
+[2024-11-09 20:46:13.886308] Checking Ctrl+E combination...
+[2024-11-09 20:46:13.887309] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:13.948755] Key event: space (up)
+[2024-11-09 20:46:14.057303] Key event: h (down)
+[2024-11-09 20:46:14.058309] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.062738] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.128673] Key event: a (down)
+[2024-11-09 20:46:14.129738] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.131667] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.180818] Key event: h (up)
+[2024-11-09 20:46:14.201340] Key event: a (up)
+[2024-11-09 20:46:14.277486] Key event: v (down)
+[2024-11-09 20:46:14.277486] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.278953] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.347797] Key event: i (down)
+[2024-11-09 20:46:14.348818] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.351404] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.386228] Key event: v (up)
+[2024-11-09 20:46:14.420354] Key event: i (up)
+[2024-11-09 20:46:14.494285] Key event: n (down)
+[2024-11-09 20:46:14.495670] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.496928] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.595692] Key event: space (down)
+[2024-11-09 20:46:14.596696] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.599051] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.627013] Key event: n (up)
+[2024-11-09 20:46:14.711649] Key event: space (up)
+[2024-11-09 20:46:14.860992] Key event: i (down)
+[2024-11-09 20:46:14.861998] Checking Ctrl+E combination...
+[2024-11-09 20:46:14.861998] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:14.952741] Key event: i (up)
+[2024-11-09 20:46:15.245750] Key event: backspace (down)
+[2024-11-09 20:46:15.246766] Checking Ctrl+E combination...
+[2024-11-09 20:46:15.248096] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:15.361708] Key event: backspace (up)
+[2024-11-09 20:46:15.452901] Key event: backspace (down)
+[2024-11-09 20:46:15.453928] Checking Ctrl+E combination...
+[2024-11-09 20:46:15.455308] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:15.488288] Key event: g (down)
+[2024-11-09 20:46:15.489303] Checking Ctrl+E combination...
+[2024-11-09 20:46:15.490300] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:15.509594] Key event: backspace (up)
+[2024-11-09 20:46:15.589655] Key event: g (up)
+[2024-11-09 20:46:15.603011] Key event: space (down)
+[2024-11-09 20:46:15.603859] Checking Ctrl+E combination...
+[2024-11-09 20:46:15.606919] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:15.707301] Key event: space (up)
+[2024-11-09 20:46:15.791720] Key event: i (down)
+[2024-11-09 20:46:15.794810] Checking Ctrl+E combination...
+[2024-11-09 20:46:15.796827] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:15.887251] Key event: i (up)
+[2024-11-09 20:46:15.921765] Key event: s (down)
+[2024-11-09 20:46:15.922785] Checking Ctrl+E combination...
+[2024-11-09 20:46:15.924915] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:16.010921] Key event: s (up)
+[2024-11-09 20:46:16.071229] Key event: s (down)
+[2024-11-09 20:46:16.072226] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.073225] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:16.186721] Key event: s (up)
+[2024-11-09 20:46:16.194924] Key event: u (down)
+[2024-11-09 20:46:16.194924] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.198504] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:16.262292] Key event: u (up)
+[2024-11-09 20:46:16.272344] Key event: e (down)
+[2024-11-09 20:46:16.273343] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.275480] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:16.344041] Key event: s (down)
+[2024-11-09 20:46:16.345081] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.347316] Checking keys - Ctrl: False, E: True
+[2024-11-09 20:46:16.381328] Key event: e (up)
+[2024-11-09 20:46:16.431217] Key event: s (up)
+[2024-11-09 20:46:16.448960] Key event: . (down)
+[2024-11-09 20:46:16.448960] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.450960] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:16.539453] Key event: space (down)
+[2024-11-09 20:46:16.540444] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.541443] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:16.556659] Key event: . (up)
+[2024-11-09 20:46:16.590249] Key event: shift (down)
+[2024-11-09 20:46:16.590249] Checking Ctrl+E combination...
+[2024-11-09 20:46:16.591248] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:16.650542] Key event: space (up)
+[2024-11-09 20:46:16.942268] Key event: shift (up)
+[2024-11-09 20:46:17.753762] Key event: enter (down)
+[2024-11-09 20:46:17.754722] Checking Ctrl+E combination...
+[2024-11-09 20:46:17.754722] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:17.894873] Key event: enter (up)
+[2024-11-09 20:46:21.611531] Key event: up (down)
+[2024-11-09 20:46:21.612533] Checking Ctrl+E combination...
+[2024-11-09 20:46:21.614826] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:21.773402] Key event: up (up)
+[2024-11-09 20:46:22.740637] Key event: up (down)
+[2024-11-09 20:46:22.741630] Checking Ctrl+E combination...
+[2024-11-09 20:46:22.742909] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:22.837643] Key event: up (up)
+[2024-11-09 20:46:23.194895] Key event: enter (down)
+[2024-11-09 20:46:23.194895] Checking Ctrl+E combination...
+[2024-11-09 20:46:23.195896] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:23.315642] Key event: enter (up)
+[2024-11-09 20:46:31.509767] Key event: y (down)
+[2024-11-09 20:46:31.510764] Checking Ctrl+E combination...
+[2024-11-09 20:46:31.513161] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:31.644253] Key event: y (up)
+[2024-11-09 20:46:32.148692] Key event: enter (down)
+[2024-11-09 20:46:32.148692] Checking Ctrl+E combination...
+[2024-11-09 20:46:32.149683] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:32.240555] Key event: enter (up)
+[2024-11-09 20:46:36.785512] Key event: delete (down)
+[2024-11-09 20:46:36.786528] Checking Ctrl+E combination...
+[2024-11-09 20:46:36.788529] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:36.964077] Key event: delete (up)
+[2024-11-09 20:46:39.561829] Key event: up (down)
+[2024-11-09 20:46:39.562847] Checking Ctrl+E combination...
+[2024-11-09 20:46:39.562847] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:39.695576] Key event: up (up)
+[2024-11-09 20:46:40.508573] Key event: enter (down)
+[2024-11-09 20:46:40.509570] Checking Ctrl+E combination...
+[2024-11-09 20:46:40.509570] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:40.695213] Key event: enter (up)
+[2024-11-09 20:46:48.133034] Key event: y (down)
+[2024-11-09 20:46:48.134037] Checking Ctrl+E combination...
+[2024-11-09 20:46:48.134037] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:48.226168] Key event: y (up)
+[2024-11-09 20:46:48.292074] Key event: enter (down)
+[2024-11-09 20:46:48.292074] Checking Ctrl+E combination...
+[2024-11-09 20:46:48.294075] Checking keys - Ctrl: False, E: False
+[2024-11-09 20:46:48.372528] Key event: enter (up)
+[2024-11-09 20:46:53.419897] Key event: ctrl (down)
+[2024-11-09 20:46:53.419897] Checking Ctrl+E combination...
+[2024-11-09 20:46:53.421337] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:53.926053] Key event: ctrl (down)
+[2024-11-09 20:46:53.927059] Checking Ctrl+E combination...
+[2024-11-09 20:46:53.927059] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:53.954617] Key event: ctrl (down)
+[2024-11-09 20:46:53.954617] Checking Ctrl+E combination...
+[2024-11-09 20:46:53.955619] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:53.987836] Key event: ctrl (down)
+[2024-11-09 20:46:53.988838] Checking Ctrl+E combination...
+[2024-11-09 20:46:53.988838] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:54.015581] Key event: ctrl (down)
+[2024-11-09 20:46:54.015581] Checking Ctrl+E combination...
+[2024-11-09 20:46:54.016593] Checking keys - Ctrl: True, E: False
+[2024-11-09 20:46:54.032170] Key event: ctrl (up)

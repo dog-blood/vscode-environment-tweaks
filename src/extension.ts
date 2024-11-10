@@ -100,7 +100,7 @@ export function activate(context: vscode.ExtensionContext) {
     console.log('🚀 LaTeX Helper is now active - DEBUG MODE');
     
     // Start Python process for navigation
-    const pythonScriptPath = path.join(__dirname, '..', 'src', 'keylogger.py');
+    const pythonScriptPath = path.join(__dirname, 'keylogger.py');
     const pythonProcess = spawn('python', [pythonScriptPath]);
     
     // SNIPPET FUNCTIONALITY
