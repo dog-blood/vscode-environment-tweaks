@@ -1,8 +1,0 @@
-Keylogger started
-----------------------------------------
-Window: [Extension Development Host] ● test.tex - testground - Cursor
-Event: left (up)
-----------------------------------------
-Window: [Extension Development Host] ● test.tex - testground - Cursor
-Event: left (down)
-----------------------------------------
